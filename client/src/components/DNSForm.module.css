@@ -1,0 +1,14 @@
+.dnsForm{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+
+}
+.formControl{
+    display: flex;
+    gap: 1rem;
+    justify-content: space-between;
+    width: 30%;
+}

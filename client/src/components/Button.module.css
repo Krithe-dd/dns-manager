@@ -1,0 +1,16 @@
+.btn{
+    border: 1px solid black;
+    padding: 0.4rem .8rem;
+    color: white;
+    background-color: black;
+    width: fit-content;
+    font-size: smaller;
+    margin: 1px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.btn:hover{
+    background-color: white;
+    color: black;
+
+}
